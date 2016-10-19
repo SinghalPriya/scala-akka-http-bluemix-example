@@ -279,7 +279,7 @@
             <configuration>
                 <images>
                     <image>
-                        <name>amitkarir/scala-akka-http-employee-rest-service-example:latest</name>
+                        <name>priya19/scala-akka-http-employee-rest-service-example:latest</name>
                         <build>
                             <from>jboss/base-jdk:8</from>
                             <maintainer>markus@jboss.org</maintainer>
